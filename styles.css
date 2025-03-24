@@ -1,0 +1,24 @@
+body { background-color: gold;
+  border-style: hidden;
+  text-align: center;
+}
+h1 {
+  background-color: deepskyblue;
+  text-align: center;
+  box-shadow: 5px 5px 5px grey;
+  border-radius: 80px;
+}
+p {
+  font-family: georgia, "Times New Roman", sans-serif;
+  text-align: center; 
+}
+fieldset {
+  margin: 10px;
+  border-radius: 4px;
+  border-style: hidden;
+  border-bottom: outset;
+}
+input[type="submit"] {
+  width: 30%;
+  margin-left: 120px;
+}
